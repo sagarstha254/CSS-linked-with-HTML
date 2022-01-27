@@ -1,0 +1,43 @@
+p {
+    color: red;
+    text-align: center;
+    font-family: vardana;
+    font-size: 50px;
+    border-style: dotted;
+
+    }
+
+    #first{
+    color: yellow;
+    }
+
+    .idiot{
+    color: blue;
+    }
+
+    h1 {
+    background-color:black;
+    color: green;
+    border-style: dotted;
+    border-color:white red green blue;
+    }
+
+    a {
+    color: red;
+    border-style: dotted;
+    padding-left: 5px;
+    border-top: red;
+    border-left: blue;
+    border-right: yellow;
+    border-bottom: black;
+    }
+
+    a:hover {
+    font-family: arial;
+    color: yellow;
+    font-size:20px;
+    }
+
+    *{
+    background-color: cadetblue;
+        }
